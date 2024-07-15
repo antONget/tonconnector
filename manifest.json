@@ -1,0 +1,7 @@
+{
+  "url": "https:\\t.me\T_e_s_t_m_y_b_o_t_bot",                        // required
+  "name": "T_e_s_t_m_y_b_o_t_bot",                      // required
+  "iconUrl": "https://monecle.com/upload/images/goods/600/1552744344.png",               // required
+  "termsOfUseUrl": "<terms-of-use-url>",     // optional
+  "privacyPolicyUrl": "<privacy-policy-url>" // optional
+}
